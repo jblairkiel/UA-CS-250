@@ -1,0 +1,5 @@
+Video
+url://localhost/Movies/The Departed (2006).m4v
+Stereo
+1280x720
+Progressive
